@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 07 Mar 2025 20:50:11 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 07 Mar 2025 20:50:08 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Aplicações Científicas]]></title><description><![CDATA[<a class="tag" href="?query=tag:FORTRAN" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#FORTRAN</a> <a class="tag" href="?query=tag:ALGOL60" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ALGOL60</a> 
+ <br><a href=".?query=tag:FORTRAN" class="tag" target="_blank" rel="noopener nofollow">#FORTRAN</a> <a href=".?query=tag:ALGOL60" class="tag" target="_blank" rel="noopener nofollow">#ALGOL60</a>]]></description><link>conceitos-preliminares\aplicações\aplicações-científicas.html</link><guid isPermaLink="false">Conceitos Preliminares/Aplicações/Aplicações Científicas.md</guid><pubDate>Fri, 07 Mar 2025 14:38:43 GMT</pubDate></item><item><title><![CDATA[Aplicações de Negócios]]></title><description><![CDATA[<a class="tag" href="?query=tag:COBOL" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#COBOL</a> 
+ <br><a href=".?query=tag:COBOL" class="tag" target="_blank" rel="noopener nofollow">#COBOL</a>]]></description><link>conceitos-preliminares\aplicações\aplicações-de-negócios.html</link><guid isPermaLink="false">Conceitos Preliminares/Aplicações/Aplicações de Negócios.md</guid><pubDate>Fri, 07 Mar 2025 14:38:19 GMT</pubDate></item><item><title><![CDATA[Aplicações em Inteligência Artificial]]></title><description><![CDATA[<a class="tag" href="?query=tag:LISP" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#LISP</a> <a class="tag" href="?query=tag:PROLOG" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#PROLOG</a> 
+ <br><a href=".?query=tag:LISP" class="tag" target="_blank" rel="noopener nofollow">#LISP</a> <a href=".?query=tag:PROLOG" class="tag" target="_blank" rel="noopener nofollow">#PROLOG</a>]]></description><link>conceitos-preliminares\aplicações\aplicações-em-inteligência-artificial.html</link><guid isPermaLink="false">Conceitos Preliminares/Aplicações/Aplicações em Inteligência Artificial.md</guid><pubDate>Fri, 07 Mar 2025 14:42:59 GMT</pubDate></item><item><title><![CDATA[Aplicações em Sistemas Operacionais]]></title><description><![CDATA[<a class="tag" href="?query=tag:C" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#C</a> <a class="tag" href="?query=tag:CPP" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#CPP</a> 
+ <br><a href=".?query=tag:C" class="tag" target="_blank" rel="noopener nofollow">#C</a> <a href=".?query=tag:CPP" class="tag" target="_blank" rel="noopener nofollow">#CPP</a> ]]></description><link>conceitos-preliminares\aplicações\aplicações-em-sistemas-operacionais.html</link><guid isPermaLink="false">Conceitos Preliminares/Aplicações/Aplicações em Sistemas Operacionais.md</guid><pubDate>Fri, 07 Mar 2025 14:45:01 GMT</pubDate></item><item><title><![CDATA[Aplicações WEB]]></title><description><![CDATA[<a class="tag" href="?query=tag:HTML" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#HTML</a> <a class="tag" href="?query=tag:Java" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Java</a> <a class="tag" href="?query=tag:Python" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#Python</a> <a class="tag" href="?query=tag:JavaScript" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#JavaScript</a> <a class="tag" href="?query=tag:PHP" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#PHP</a> 
+ <br><a href=".?query=tag:HTML" class="tag" target="_blank" rel="noopener nofollow">#HTML</a> <a href=".?query=tag:Java" class="tag" target="_blank" rel="noopener nofollow">#Java</a> <a href=".?query=tag:Python" class="tag" target="_blank" rel="noopener nofollow">#Python</a> <a href=".?query=tag:JavaScript" class="tag" target="_blank" rel="noopener nofollow">#JavaScript</a> <a href=".?query=tag:PHP" class="tag" target="_blank" rel="noopener nofollow">#PHP</a>]]></description><link>conceitos-preliminares\aplicações\aplicações-web.html</link><guid isPermaLink="false">Conceitos Preliminares/Aplicações/Aplicações WEB.md</guid><pubDate>Fri, 07 Mar 2025 14:47:33 GMT</pubDate></item><item><title><![CDATA[Áreas de Aplicação]]></title><description><![CDATA[ 
+ <br><br>
+<br>Os primeiros computadores digitais foram inventados com propósitos científicos
+<br>Preocupação maior com eficiência
+<br>Linguagens: FORTRAN, ALGOL 60
+<br><br>
+<br>Início na década de 50
+<br>Linguagens: COBOL
+<br><br>
+<br>Possui vastas aplicações
+<br>Boa parte das aplicações antes de 1990 eram escritas em LISP ou alguma linguagem relativa
+<br>A partir de 1970, começaram a surgir aplicações que utilizavam programação lógica, adotando a linguagem PROLOG
+<br><br>
+<br>Necessidade de eficiência
+<br>Boa parte são escritos em C ou C++ atualmente
+<br>Maior parte do UNIX é desenvolvida em C
+<br><br>
+<br>Utilizado no desenvolvimento de aplicações para internet
+<br>Linguagens: HTML, CSS, Java, JavaScript, Python, PHP
+]]></description><link>conceitos-preliminares\aplicações\áreas-de-aplicação.html</link><guid isPermaLink="false">Conceitos Preliminares/Aplicações/Áreas de Aplicação.md</guid><pubDate>Fri, 07 Mar 2025 18:21:26 GMT</pubDate></item><item><title><![CDATA[Avaliação de uma Linguagem]]></title><description><![CDATA[ 
+ <br><br>]]></description><link>conceitos-preliminares\avaliação\avaliação-de-uma-linguagem.html</link><guid isPermaLink="false">Conceitos Preliminares/Avaliação/Avaliação de uma Linguagem.md</guid><pubDate>Fri, 07 Mar 2025 18:26:13 GMT</pubDate></item><item><title><![CDATA[Características Associadas a Critérios]]></title><description><![CDATA[ 
+ <br><br>
+<br>Afeta fortemente a legibilidade e a facilidade de escrita
+<br>Uma linguagem com muitas construções básicas é mais difícil de aprender
+<br>A simplicidade extrema pode tornar os programas menos legíveis (ex.: Assembly)
+<br><br>
+<br>Significa que um conjunto relativamente pequeno de construções primitivas pode ser combinado a um número relativamente pequeno de formas para construir as estruturas de controle e os dados da linguagem
+<br>Uma falta de ortogonalidade leva a exceções às regras de linguagem
+<br><br>
+<br>Presença de mecanismos adequados para definir tipos e estruturas de dados
+<br>Influente na facilidade de escrita e legibilidade
+<br><br>
+<br>Forma de expressões, sentenças e unidades de programas
+<br>Definição do formato de identificadores
+<br>Definição de palavras especiais
+<br><br>
+<br>Habilidade de definir e usar estruturas/operações complexas de forma a permitir que muitos dos detalhes sejam ignorados
+<br><br>
+<br>Pode se referir a várias características
+<br>Em geral, uma linguagem expressiva especifica computações de forma conveniente, podendo permitir diferentes notações para uma mesma operação
+<br>Influencia a facilidade de escrita de uma linguagem
+<br><br>
+<br>Execução de testes para detectar erros de tipos em um programa, seja no momento de compilação ou durante a execução de um programa
+<br>Fator importante na confiabilidade de uma linguagem
+<br>Quanto mais cedo os erros forem detectados, menos caro é consertá-los
+<br><br>
+<br>Possibilita que um programa intercepte erros em tempo de execução (e outras condições não usuais) e tome medidas corretivas
+<br>Característica importante para a confiabilidade da linguagem
+<br><br>
+<br>Permitidos quando é possível utilizar um ou mais nomes para acessar a mesma célula de memória
+<br>Em algumas linguagens, são usados para resolver deficiências na abstração dos dados
+<br>Outras linguagens restringem o uso de apelidos visando aumento de confiabilidade
+]]></description><link>conceitos-preliminares\avaliação\características-associadas-a-critérios.html</link><guid isPermaLink="false">Conceitos Preliminares/Avaliação/Características Associadas a Critérios.md</guid><pubDate>Fri, 07 Mar 2025 19:44:24 GMT</pubDate></item><item><title><![CDATA[Confiabilidade]]></title><description><![CDATA[ 
+ ]]></description><link>conceitos-preliminares\avaliação\confiabilidade.html</link><guid isPermaLink="false">Conceitos Preliminares/Avaliação/Confiabilidade.md</guid><pubDate>Fri, 07 Mar 2025 18:34:16 GMT</pubDate></item><item><title><![CDATA[Critérios de Avaliação]]></title><description><![CDATA[ 
+ <br><br>
+<br>Facilidade com a qual os programas podem ser lidos e entendidos
+<br>Inicialmente, as linguagens se preocupavam mais com eficiência do que com legibilidade
+<br>Atualmente, a legibilidade se tornou um fator importante na redução do custo do software
+<br><br>
+<br>Medida do quão facilmente uma linguagem pode ser utilizada para criar programas
+<br>A maioria das características que afetam a legibilidade também afetam a facilidade de escrita
+<br><br>
+<br>Um programa é dito confiável quando está de acordo com suas especificações em qualquer condição
+<br>Linguagens podem ter recursos que tornam os programas gerados por ela confiáveis
+<br><br>
+<br>Depende de diversos fatores
+<br>Custo para treinar programadores, escrever programas na linguagem, compilação, execução, etc.
+]]></description><link>conceitos-preliminares\avaliação\critérios-de-avaliação.html</link><guid isPermaLink="false">Conceitos Preliminares/Avaliação/Critérios de Avaliação.md</guid><pubDate>Fri, 07 Mar 2025 18:42:00 GMT</pubDate></item><item><title><![CDATA[Custo]]></title><description><![CDATA[ 
+ ]]></description><link>conceitos-preliminares\avaliação\custo.html</link><guid isPermaLink="false">Conceitos Preliminares/Avaliação/Custo.md</guid><pubDate>Fri, 07 Mar 2025 18:35:33 GMT</pubDate></item><item><title><![CDATA[Expressividade]]></title><description><![CDATA[ 
+ ]]></description><link>conceitos-preliminares\avaliação\expressividade.html</link><guid isPermaLink="false">Conceitos Preliminares/Avaliação/Expressividade.md</guid><pubDate>Fri, 07 Mar 2025 19:30:43 GMT</pubDate></item><item><title><![CDATA[Facilidade de Escrita]]></title><description><![CDATA[ 
+ ]]></description><link>conceitos-preliminares\avaliação\facilidade-de-escrita.html</link><guid isPermaLink="false">Conceitos Preliminares/Avaliação/Facilidade de Escrita.md</guid><pubDate>Fri, 07 Mar 2025 18:27:56 GMT</pubDate></item><item><title><![CDATA[Legibilidade]]></title><description><![CDATA[ 
+ ]]></description><link>conceitos-preliminares\avaliação\legibilidade.html</link><guid isPermaLink="false">Conceitos Preliminares/Avaliação/Legibilidade.md</guid><pubDate>Fri, 07 Mar 2025 18:27:26 GMT</pubDate></item><item><title><![CDATA[Ortogonalidade]]></title><description><![CDATA[ 
+ ]]></description><link>conceitos-preliminares\avaliação\ortogonalidade.html</link><guid isPermaLink="false">Conceitos Preliminares/Avaliação/Ortogonalidade.md</guid><pubDate>Fri, 07 Mar 2025 19:22:57 GMT</pubDate></item><item><title><![CDATA[Projeto da Sintaxe]]></title><description><![CDATA[ 
+ ]]></description><link>conceitos-preliminares\avaliação\projeto-da-sintaxe.html</link><guid isPermaLink="false">Conceitos Preliminares/Avaliação/Projeto da Sintaxe.md</guid><pubDate>Fri, 07 Mar 2025 19:30:06 GMT</pubDate></item><item><title><![CDATA[Simplicidade Geral]]></title><description><![CDATA[ 
+ ]]></description><link>conceitos-preliminares\avaliação\simplicidade-geral.html</link><guid isPermaLink="false">Conceitos Preliminares/Avaliação/Simplicidade Geral.md</guid><pubDate>Fri, 07 Mar 2025 19:27:00 GMT</pubDate></item><item><title><![CDATA[Suporte a Abstração]]></title><description><![CDATA[ 
+ ]]></description><link>conceitos-preliminares\avaliação\suporte-a-abstração.html</link><guid isPermaLink="false">Conceitos Preliminares/Avaliação/Suporte a Abstração.md</guid><pubDate>Fri, 07 Mar 2025 19:30:25 GMT</pubDate></item><item><title><![CDATA[Tipo de Dados]]></title><description><![CDATA[ 
+ ]]></description><link>conceitos-preliminares\avaliação\tipo-de-dados.html</link><guid isPermaLink="false">Conceitos Preliminares/Avaliação/Tipo de Dados.md</guid><pubDate>Fri, 07 Mar 2025 19:26:41 GMT</pubDate></item><item><title><![CDATA[Tratamentos de Exceção]]></title><description><![CDATA[ 
+ ]]></description><link>conceitos-preliminares\avaliação\tratamentos-de-exceção.html</link><guid isPermaLink="false">Conceitos Preliminares/Avaliação/Tratamentos de Exceção.md</guid><pubDate>Fri, 07 Mar 2025 19:32:54 GMT</pubDate></item><item><title><![CDATA[Utilização de Apelidos]]></title><description><![CDATA[ 
+ ]]></description><link>conceitos-preliminares\avaliação\utilização-de-apelidos.html</link><guid isPermaLink="false">Conceitos Preliminares/Avaliação/Utilização de Apelidos.md</guid><pubDate>Fri, 07 Mar 2025 19:33:24 GMT</pubDate></item><item><title><![CDATA[Verificação de Tipos]]></title><description><![CDATA[ 
+ ]]></description><link>conceitos-preliminares\avaliação\verificação-de-tipos.html</link><guid isPermaLink="false">Conceitos Preliminares/Avaliação/Verificação de Tipos.md</guid><pubDate>Fri, 07 Mar 2025 19:32:30 GMT</pubDate></item><item><title><![CDATA[Compilação]]></title><description><![CDATA[ 
+ ]]></description><link>conceitos-preliminares\implementação\compilação.html</link><guid isPermaLink="false">Conceitos Preliminares/Implementação/Compilação.md</guid><pubDate>Fri, 07 Mar 2025 19:45:57 GMT</pubDate></item><item><title><![CDATA[Interpretação]]></title><description><![CDATA[ 
+ ]]></description><link>conceitos-preliminares\implementação\interpretação.html</link><guid isPermaLink="false">Conceitos Preliminares/Implementação/Interpretação.md</guid><pubDate>Fri, 07 Mar 2025 20:01:25 GMT</pubDate></item><item><title><![CDATA[Métodos de Implementação de uma Linguagem]]></title><description><![CDATA[ 
+ <br><br>
+<br>Traduz os programas para linguagem de máquina para que sejam executados diretamente pelo computador
+<br>Após o processo de tradução, a execução se torna bastante rápida
+<br>O processo de compilação e execução ocorrem em fases diferentes
+<br>O analisador léxico agrupa os caracteres da fonte em unidades léxicas (identificadores, palavras especiais, operadores, símbolos de pontuação)
+<br>O analisador sintático obtém as unidades léxicas e as utiliza para construir estruturas hierárquicas chamadas de árvores de análise sintática (parse trees) que representam a estrutura sintática do programa
+<br>O gerador de código intermediário utiliza a árvore de análise sintática para produzir um programa em uma linguagem diferente (linguagem intermediária)
+<br>Finalmente, o gerador de código traduz a versão em código intermediário em um programa equivalente em linguagem de máquina
+<br>A otimização é uma parte opcional do processo de compilação e geralmente é realizada com o programa em sua versão em código intermediário
+<br><br>
+<br>Serve como uma base de dados para o processo de compilação
+<br>O conteúdo primário são informações de tipo e atributos para cada um dos nomes definidos pelo usuário
+<br>Essa informação é colocada na tabela pelos analisadores léxico e sintático e é usada pelo analisador semântico e pelo gerador de código
+<br><br>
+<br>Os programas são interpretados por outro, chamado interpretador
+<br>O interpretador age como uma simulação de uma máquina que utiliza sentenças/comandos de programa de alto nível em vez de instruções de máquina
+<br>A interpretação pura tem a vantagem de permitir uma fácil implementação de operações de depuração em código fonte, pois todas as mensagens de erro em tempo de execução podem referenciar unidades de código específicas
+<br>Dado que o mesmo programa sempre deve passar pelo processo de interpretação sempre que for executado, programas interpretados tendem a ser mais lentos em comparação a programas compilados
+<br><br>
+<br>Alguns sistemas de implementação são um meio termo entre compiladores e interpretadores
+<br>Nesses casos, eles traduzem os programas em alto nível para uma linguagem intermediária visando facilitar a interpretação
+<br>São mais rápidos do que a interpretação pura, pois as sentenças são decodificadas apenas uma vez
+<br>Interpretar o código intermediário também é mais rápido que interpretar o código fonte
+]]></description><link>conceitos-preliminares\implementação\métodos-de-implementação-de-uma-linguagem.html</link><guid isPermaLink="false">Conceitos Preliminares/Implementação/Métodos de Implementação de uma Linguagem.md</guid><pubDate>Fri, 07 Mar 2025 20:25:38 GMT</pubDate></item><item><title><![CDATA[Sistemas Híbridos]]></title><description><![CDATA[ 
+ ]]></description><link>conceitos-preliminares\implementação\sistemas-híbridos.html</link><guid isPermaLink="false">Conceitos Preliminares/Implementação/Sistemas Híbridos.md</guid><pubDate>Fri, 07 Mar 2025 20:09:02 GMT</pubDate></item><item><title><![CDATA[Conceitos Preliminares]]></title><description><![CDATA[ 
+ <br><br><br>]]></description><link>conceitos-preliminares\conceitos-preliminares.html</link><guid isPermaLink="false">Conceitos Preliminares/Conceitos Preliminares.md</guid><pubDate>Fri, 07 Mar 2025 18:21:17 GMT</pubDate></item><item><title><![CDATA[Assuntos]]></title><description><![CDATA[ 
+ <br><br>
+<br><a data-href="Conceitos Preliminares" href="conceitos-preliminares\conceitos-preliminares.html" class="internal-link" target="_self" rel="noopener nofollow">Conceitos Preliminares</a>
+<br><a data-href="Nomes, variáveis, vinculações e escopos" href="nomes,-variáveis,-vinculações-e-escopos.html" class="internal-link" target="_self" rel="noopener nofollow">Nomes, variáveis, vinculações e escopos</a>
+<br><a data-href="Sintaxe" href="sintaxe.html" class="internal-link" target="_self" rel="noopener nofollow">Sintaxe</a>
+<br><a data-href="Tipos de Dados" href="tipos-de-dados.html" class="internal-link" target="_self" rel="noopener nofollow">Tipos de Dados</a>
+<br><a data-href="Python - Memória e Garbage Collector" href="python-memória-e-garbage-collector.html" class="internal-link" target="_self" rel="noopener nofollow">Python - Memória e Garbage Collector</a>
+<br><br><br>
+<br>???
+]]></description><link>assuntos.html</link><guid isPermaLink="false">Assuntos.md</guid><pubDate>Fri, 07 Mar 2025 19:48:32 GMT</pubDate></item><item><title><![CDATA[Nomes, variáveis, vinculações e escopos]]></title><description><![CDATA[ 
+ ]]></description><link>nomes,-variáveis,-vinculações-e-escopos.html</link><guid isPermaLink="false">Nomes, variáveis, vinculações e escopos.md</guid><pubDate>Fri, 07 Mar 2025 19:28:46 GMT</pubDate></item><item><title><![CDATA[Python - Memória e Garbage Collector]]></title><description><![CDATA[ 
+ ]]></description><link>python-memória-e-garbage-collector.html</link><guid isPermaLink="false">Python - Memória e Garbage Collector.md</guid><pubDate>Fri, 07 Mar 2025 19:28:31 GMT</pubDate></item><item><title><![CDATA[Sintaxe]]></title><description><![CDATA[ 
+ ]]></description><link>sintaxe.html</link><guid isPermaLink="false">Sintaxe.md</guid><pubDate>Fri, 07 Mar 2025 19:28:43 GMT</pubDate></item><item><title><![CDATA[Tipos de Dados]]></title><description><![CDATA[ 
+ ]]></description><link>tipos-de-dados.html</link><guid isPermaLink="false">Tipos de Dados.md</guid><pubDate>Fri, 07 Mar 2025 19:28:37 GMT</pubDate></item></channel></rss>

@@ -1,0 +1,470 @@
+{
+  "vaultName": "FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO",
+  "lastExport": 1741380608982,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Conceitos Preliminares/Aplicações/Aplicações Científicas.md",
+    "Conceitos Preliminares/Aplicações/Aplicações de Negócios.md",
+    "Conceitos Preliminares/Aplicações/Aplicações em Inteligência Artificial.md",
+    "Conceitos Preliminares/Aplicações/Aplicações em Sistemas Operacionais.md",
+    "Conceitos Preliminares/Aplicações/Aplicações WEB.md",
+    "Conceitos Preliminares/Aplicações/Áreas de Aplicação.md",
+    "Conceitos Preliminares/Avaliação/Avaliação de uma Linguagem.md",
+    "Conceitos Preliminares/Avaliação/Características Associadas a Critérios.md",
+    "Conceitos Preliminares/Avaliação/Confiabilidade.md",
+    "Conceitos Preliminares/Avaliação/Critérios de Avaliação.md",
+    "Conceitos Preliminares/Avaliação/Custo.md",
+    "Conceitos Preliminares/Avaliação/Expressividade.md",
+    "Conceitos Preliminares/Avaliação/Facilidade de Escrita.md",
+    "Conceitos Preliminares/Avaliação/Legibilidade.md",
+    "Conceitos Preliminares/Avaliação/Ortogonalidade.md",
+    "Conceitos Preliminares/Avaliação/Projeto da Sintaxe.md",
+    "Conceitos Preliminares/Avaliação/Simplicidade Geral.md",
+    "Conceitos Preliminares/Avaliação/Suporte a Abstração.md",
+    "Conceitos Preliminares/Avaliação/Tipo de Dados.md",
+    "Conceitos Preliminares/Avaliação/Tratamentos de Exceção.md",
+    "Conceitos Preliminares/Avaliação/Utilização de Apelidos.md",
+    "Conceitos Preliminares/Avaliação/Verificação de Tipos.md",
+    "Conceitos Preliminares/Implementação/Compilação.md",
+    "Conceitos Preliminares/Implementação/Interpretação.md",
+    "Conceitos Preliminares/Implementação/Métodos de Implementação de uma Linguagem.md",
+    "Conceitos Preliminares/Implementação/Sistemas Híbridos.md",
+    "Conceitos Preliminares/Conceitos Preliminares.md",
+    "Assuntos.md",
+    "Nomes, variáveis, vinculações e escopos.md",
+    "Python - Memória e Garbage Collector.md",
+    "Sintaxe.md",
+    "Tipos de Dados.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Conceitos Preliminares/Aplicações/Aplicações Científicas.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 17,
+      "exportedPath": "conceitos-preliminares/aplicações/aplicações-científicas.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Aplicações/Aplicações de Negócios.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 6,
+      "exportedPath": "conceitos-preliminares/aplicações/aplicações-de-negócios.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Aplicações/Aplicações em Inteligência Artificial.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 13,
+      "exportedPath": "conceitos-preliminares/aplicações/aplicações-em-inteligência-artificial.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Aplicações/Aplicações em Sistemas Operacionais.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 8,
+      "exportedPath": "conceitos-preliminares/aplicações/aplicações-em-sistemas-operacionais.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Aplicações/Aplicações WEB.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 36,
+      "exportedPath": "conceitos-preliminares/aplicações/aplicações-web.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Aplicações/Áreas de Aplicação.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 917,
+      "exportedPath": "conceitos-preliminares/aplicações/áreas-de-aplicação.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Avaliação/Avaliação de uma Linguagem.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 110,
+      "exportedPath": "conceitos-preliminares/avaliação/avaliação-de-uma-linguagem.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Avaliação/Características Associadas a Critérios.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 2137,
+      "exportedPath": "conceitos-preliminares/avaliação/características-associadas-a-critérios.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Avaliação/Confiabilidade.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 0,
+      "exportedPath": "conceitos-preliminares/avaliação/confiabilidade.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Avaliação/Critérios de Avaliação.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 855,
+      "exportedPath": "conceitos-preliminares/avaliação/critérios-de-avaliação.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Avaliação/Custo.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 0,
+      "exportedPath": "conceitos-preliminares/avaliação/custo.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Avaliação/Expressividade.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 0,
+      "exportedPath": "conceitos-preliminares/avaliação/expressividade.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Avaliação/Facilidade de Escrita.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 0,
+      "exportedPath": "conceitos-preliminares/avaliação/facilidade-de-escrita.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Avaliação/Legibilidade.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 0,
+      "exportedPath": "conceitos-preliminares/avaliação/legibilidade.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Avaliação/Ortogonalidade.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 0,
+      "exportedPath": "conceitos-preliminares/avaliação/ortogonalidade.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Avaliação/Projeto da Sintaxe.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 0,
+      "exportedPath": "conceitos-preliminares/avaliação/projeto-da-sintaxe.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Avaliação/Simplicidade Geral.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 0,
+      "exportedPath": "conceitos-preliminares/avaliação/simplicidade-geral.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Avaliação/Suporte a Abstração.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 0,
+      "exportedPath": "conceitos-preliminares/avaliação/suporte-a-abstração.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Avaliação/Tipo de Dados.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 0,
+      "exportedPath": "conceitos-preliminares/avaliação/tipo-de-dados.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Avaliação/Tratamentos de Exceção.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 0,
+      "exportedPath": "conceitos-preliminares/avaliação/tratamentos-de-exceção.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Avaliação/Utilização de Apelidos.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 0,
+      "exportedPath": "conceitos-preliminares/avaliação/utilização-de-apelidos.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Avaliação/Verificação de Tipos.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 0,
+      "exportedPath": "conceitos-preliminares/avaliação/verificação-de-tipos.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Implementação/Compilação.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 0,
+      "exportedPath": "conceitos-preliminares/implementação/compilação.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Implementação/Interpretação.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 0,
+      "exportedPath": "conceitos-preliminares/implementação/interpretação.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Implementação/Métodos de Implementação de uma Linguagem.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 2565,
+      "exportedPath": "conceitos-preliminares/implementação/métodos-de-implementação-de-uma-linguagem.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Implementação/Sistemas Híbridos.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 0,
+      "exportedPath": "conceitos-preliminares/implementação/sistemas-híbridos.html",
+      "dependencies": []
+    },
+    "Conceitos Preliminares/Conceitos Preliminares.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 146,
+      "exportedPath": "conceitos-preliminares/conceitos-preliminares.html",
+      "dependencies": []
+    },
+    "Assuntos.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 222,
+      "exportedPath": "assuntos.html",
+      "dependencies": []
+    },
+    "Nomes, variáveis, vinculações e escopos.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 17,
+      "exportedPath": "nomes,-variáveis,-vinculações-e-escopos.html",
+      "dependencies": []
+    },
+    "Python - Memória e Garbage Collector.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 17,
+      "exportedPath": "python-memória-e-garbage-collector.html",
+      "dependencies": []
+    },
+    "Sintaxe.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 17,
+      "exportedPath": "sintaxe.html",
+      "dependencies": []
+    },
+    "Tipos de Dados.md": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 17,
+      "exportedPath": "tipos-de-dados.html",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 14809,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 3162,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 137466,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 8284,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 262,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1741380608982,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
