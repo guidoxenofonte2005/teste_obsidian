@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 07 Mar 2025 21:02:10 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 07 Mar 2025 21:02:10 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Aplicações Científicas]]></title><description><![CDATA[<a class="tag" href="?query=tag:FORTRAN" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#FORTRAN</a> <a class="tag" href="?query=tag:ALGOL60" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ALGOL60</a> 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>FUNDAMENTOS DE LINGUAGENS DE PROGRAMAÇÃO</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 10 Mar 2025 04:11:14 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 10 Mar 2025 04:11:09 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Aplicações Científicas]]></title><description><![CDATA[<a class="tag" href="?query=tag:FORTRAN" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#FORTRAN</a> <a class="tag" href="?query=tag:ALGOL60" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#ALGOL60</a> 
  <br><a href=".?query=tag:FORTRAN" class="tag" target="_blank" rel="noopener nofollow">#FORTRAN</a> <a href=".?query=tag:ALGOL60" class="tag" target="_blank" rel="noopener nofollow">#ALGOL60</a>]]></description><link>conceitos-preliminares\aplicações\aplicações-científicas.html</link><guid isPermaLink="false">Conceitos Preliminares/Aplicações/Aplicações Científicas.md</guid><pubDate>Fri, 07 Mar 2025 14:38:43 GMT</pubDate></item><item><title><![CDATA[Aplicações de Negócios]]></title><description><![CDATA[<a class="tag" href="?query=tag:COBOL" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#COBOL</a> 
  <br><a href=".?query=tag:COBOL" class="tag" target="_blank" rel="noopener nofollow">#COBOL</a>]]></description><link>conceitos-preliminares\aplicações\aplicações-de-negócios.html</link><guid isPermaLink="false">Conceitos Preliminares/Aplicações/Aplicações de Negócios.md</guid><pubDate>Fri, 07 Mar 2025 14:38:19 GMT</pubDate></item><item><title><![CDATA[Aplicações em Inteligência Artificial]]></title><description><![CDATA[<a class="tag" href="?query=tag:LISP" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#LISP</a> <a class="tag" href="?query=tag:PROLOG" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#PROLOG</a> 
  <br><a href=".?query=tag:LISP" class="tag" target="_blank" rel="noopener nofollow">#LISP</a> <a href=".?query=tag:PROLOG" class="tag" target="_blank" rel="noopener nofollow">#PROLOG</a>]]></description><link>conceitos-preliminares\aplicações\aplicações-em-inteligência-artificial.html</link><guid isPermaLink="false">Conceitos Preliminares/Aplicações/Aplicações em Inteligência Artificial.md</guid><pubDate>Fri, 07 Mar 2025 14:42:59 GMT</pubDate></item><item><title><![CDATA[Aplicações em Sistemas Operacionais]]></title><description><![CDATA[<a class="tag" href="?query=tag:C" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#C</a> <a class="tag" href="?query=tag:CPP" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#CPP</a> 
@@ -98,7 +98,7 @@
 <br>Serve como uma base de dados para o processo de compilação
 <br>O conteúdo primário são informações de tipo e atributos para cada um dos nomes definidos pelo usuário
 <br>Essa informação é colocada na tabela pelos analisadores léxico e sintático e é usada pelo analisador semântico e pelo gerador de código
-<br><br>
+<br><br><br>
 <br>Os programas são interpretados por outro, chamado interpretador
 <br>O interpretador age como uma simulação de uma máquina que utiliza sentenças/comandos de programa de alto nível em vez de instruções de máquina
 <br>A interpretação pura tem a vantagem de permitir uma fácil implementação de operações de depuração em código fonte, pois todas as mensagens de erro em tempo de execução podem referenciar unidades de código específicas
@@ -108,19 +108,376 @@
 <br>Nesses casos, eles traduzem os programas em alto nível para uma linguagem intermediária visando facilitar a interpretação
 <br>São mais rápidos do que a interpretação pura, pois as sentenças são decodificadas apenas uma vez
 <br>Interpretar o código intermediário também é mais rápido que interpretar o código fonte
-]]></description><link>conceitos-preliminares\implementação\métodos-de-implementação-de-uma-linguagem.html</link><guid isPermaLink="false">Conceitos Preliminares/Implementação/Métodos de Implementação de uma Linguagem.md</guid><pubDate>Fri, 07 Mar 2025 20:25:38 GMT</pubDate></item><item><title><![CDATA[Sistemas Híbridos]]></title><description><![CDATA[ 
+]]></description><link>conceitos-preliminares\implementação\métodos-de-implementação-de-uma-linguagem.html</link><guid isPermaLink="false">Conceitos Preliminares/Implementação/Métodos de Implementação de uma Linguagem.md</guid><pubDate>Fri, 07 Mar 2025 21:21:44 GMT</pubDate></item><item><title><![CDATA[Sistemas Híbridos]]></title><description><![CDATA[ 
  ]]></description><link>conceitos-preliminares\implementação\sistemas-híbridos.html</link><guid isPermaLink="false">Conceitos Preliminares/Implementação/Sistemas Híbridos.md</guid><pubDate>Fri, 07 Mar 2025 20:09:02 GMT</pubDate></item><item><title><![CDATA[Conceitos Preliminares]]></title><description><![CDATA[ 
- <br><br><br>]]></description><link>conceitos-preliminares\conceitos-preliminares.html</link><guid isPermaLink="false">Conceitos Preliminares/Conceitos Preliminares.md</guid><pubDate>Fri, 07 Mar 2025 18:21:17 GMT</pubDate></item><item><title><![CDATA[Assuntos]]></title><description><![CDATA[ 
+ <br><br><br>]]></description><link>conceitos-preliminares\conceitos-preliminares.html</link><guid isPermaLink="false">Conceitos Preliminares/Conceitos Preliminares.md</guid><pubDate>Fri, 07 Mar 2025 18:21:17 GMT</pubDate></item><item><title><![CDATA[Escopo Dinâmico]]></title><description><![CDATA[ 
+ ]]></description><link>nvve\escopo\escopo-dinâmico.html</link><guid isPermaLink="false">NVVE/Escopo/Escopo Dinâmico.md</guid><pubDate>Sat, 08 Mar 2025 16:58:04 GMT</pubDate></item><item><title><![CDATA[Escopo Estático]]></title><description><![CDATA[ 
+ ]]></description><link>nvve\escopo\escopo-estático.html</link><guid isPermaLink="false">NVVE/Escopo/Escopo Estático.md</guid><pubDate>Sat, 08 Mar 2025 16:57:51 GMT</pubDate></item><item><title><![CDATA[Escopos]]></title><description><![CDATA[ 
+ <br>
+<br>Faixa de sentenças nas quais uma variável é visível
+<br>Uma variável é <a data-href="Visível" href="nvve\escopo\visível.html" class="internal-link" target="_self" rel="noopener nofollow">Visível</a> em uma sentença se ela pode ser referenciada na mesma
+<br>Uma variável é <a data-href="Local" href="nvve\escopo\local.html" class="internal-link" target="_self" rel="noopener nofollow">Local</a> a uma unidade/bloco de programa se ela for declarada naquela unidade
+<br>Uma variável <a data-href="Não Local" href="nvve\escopo\não-local.html" class="internal-link" target="_self" rel="noopener nofollow">Não Local</a> de uma unidade/bloco de programa é uma variável que não foi declarada nesse bloco, mas é visível a ele
+<br>Além dos escopos gerados por funções, existem os escopos gerados por blocos, que funcionam de forma semelhante com relação à visibilidade
+<br>Diz-se que uma variável faz parte do escopo global quando ela é criada fora do escopo das funções
+<br><br>
+<br>O escopo das variáveis é determinado antes do tempo de execução do algoritmo
+<br><br>
+<br>Determinado em tempo de execução
+<br>Baseado na sequência de chamadas das funções/procedimentos, e não em seu relacionamento espacial
+]]></description><link>nvve\escopo\escopos.html</link><guid isPermaLink="false">NVVE/Escopo/Escopos.md</guid><pubDate>Sat, 08 Mar 2025 18:03:59 GMT</pubDate></item><item><title><![CDATA[Local]]></title><description><![CDATA[ 
+ ]]></description><link>nvve\escopo\local.html</link><guid isPermaLink="false">NVVE/Escopo/Local.md</guid><pubDate>Sat, 08 Mar 2025 16:52:12 GMT</pubDate></item><item><title><![CDATA[Não Local]]></title><description><![CDATA[ 
+ ]]></description><link>nvve\escopo\não-local.html</link><guid isPermaLink="false">NVVE/Escopo/Não Local.md</guid><pubDate>Sat, 08 Mar 2025 16:52:31 GMT</pubDate></item><item><title><![CDATA[Visível]]></title><description><![CDATA[ 
+ ]]></description><link>nvve\escopo\visível.html</link><guid isPermaLink="false">NVVE/Escopo/Visível.md</guid><pubDate>Sat, 08 Mar 2025 16:52:05 GMT</pubDate></item><item><title><![CDATA[Nomes]]></title><description><![CDATA[ 
+ <br><br>
+<br>Cadeia de caracteres usada para identificar uma entidade no programa
+<br>Também chamado de identificador
+<br>Cada linguagem descreve um formato para seus nomes, com possíveis regras de capitalização e limitação de caracteres
+<br><br>
+<br>Usadas para tornar os programas mais legíveis
+<br>Nomeiam ações a serem realizadas
+<br>Podem (ou não) serem utilizadas como nomes
+<br><br>
+<br>Palavra especial que não pode ser utilizada como nome
+<br>Geralmente as palavras reservadas são mais usadas que as palavras-chave
+<br>Podem variar de linguagem para linguagem
+]]></description><link>nvve\nomes\nomes.html</link><guid isPermaLink="false">NVVE/Nomes/Nomes.md</guid><pubDate>Sat, 08 Mar 2025 16:54:06 GMT</pubDate></item><item><title><![CDATA[Palavras Especiais]]></title><description><![CDATA[ 
+ ]]></description><link>nvve\nomes\palavras-especiais.html</link><guid isPermaLink="false">NVVE/Nomes/Palavras Especiais.md</guid><pubDate>Fri, 07 Mar 2025 23:05:29 GMT</pubDate></item><item><title><![CDATA[Palavras Reservadas]]></title><description><![CDATA[ 
+ ]]></description><link>nvve\nomes\palavras-reservadas.html</link><guid isPermaLink="false">NVVE/Nomes/Palavras Reservadas.md</guid><pubDate>Fri, 07 Mar 2025 23:07:28 GMT</pubDate></item><item><title><![CDATA[Endereço]]></title><description><![CDATA[ 
+ ]]></description><link>nvve\variaveis\endereço.html</link><guid isPermaLink="false">NVVE/Variaveis/Endereço.md</guid><pubDate>Sat, 08 Mar 2025 14:05:26 GMT</pubDate></item><item><title><![CDATA[Escopo]]></title><description><![CDATA[ 
+ ]]></description><link>nvve\variaveis\escopo.html</link><guid isPermaLink="false">NVVE/Variaveis/Escopo.md</guid><pubDate>Sat, 08 Mar 2025 14:06:08 GMT</pubDate></item><item><title><![CDATA[Tempo de Vida]]></title><description><![CDATA[ 
+ ]]></description><link>nvve\variaveis\tempo-de-vida.html</link><guid isPermaLink="false">NVVE/Variaveis/Tempo de Vida.md</guid><pubDate>Sat, 08 Mar 2025 14:06:02 GMT</pubDate></item><item><title><![CDATA[Valor]]></title><description><![CDATA[ 
+ ]]></description><link>nvve\variaveis\valor.html</link><guid isPermaLink="false">NVVE/Variaveis/Valor.md</guid><pubDate>Sat, 08 Mar 2025 14:05:47 GMT</pubDate></item><item><title><![CDATA[Variáveis]]></title><description><![CDATA[ 
+ <br>
+<br>Uma variável pode ser caracterizada como um conjunto de seis atributos:
+<br><br>
+<br>Utilizado para identificar uma entidade/variável
+<br><br>
+<br>Dado pelo endereço da região de memória associada à variável em questão
+<br>Em determinadas situações, uma variável pode ter diferentes endereços
+<br>Um endereço pode estar associado a mais de um nome
+<br><br>
+<br>Determina a faixa de valores que a variável pode assumir
+<br><br>
+<br>Conteúdo da memória associado à variável em questão
+<br><br>]]></description><link>nvve\variaveis\variáveis.html</link><guid isPermaLink="false">NVVE/Variaveis/Variáveis.md</guid><pubDate>Sat, 08 Mar 2025 16:54:15 GMT</pubDate></item><item><title><![CDATA[Vinculação]]></title><description><![CDATA[ 
+ <br>
+<br>Uma vinculação nada mais é do que uma associação entre valores, como um atributo e uma entidade, uma operação e um símbolo, etc.
+<br>Divide-se em dois tipos:
+<br><br><br>
+<br>Ocorre pela primeira vez antes do tempo de execução do programa e permanece inalterada durante sua execução
+<br>Possui dois possíveis tipos de declarações:
+
+<br>Explícitas - Sentenças em um programa que listam nomes de variáveis e especificam os seus tipos
+<br>Implícitas - Os tipos são associados a variáveis por meio de convenções
+
+
+<br>Declarações implícitas podem ser prejudiciais à confiabilidade da linguagem, pois evitam que a linguagem detecte alguns erros em tempo de compilação
+<br><br>
+<br>A vinculação ocorre quando é atribuído algum valor para a variável
+<br>O tipo da variável pode mudar durante a execução do programa
+<br>Possui como principal vantagem a flexibilidade do programa
+<br>Por outro lado, sua principal desvantagem é permitir com que qualquer valor seja associado a qualquer variável, fazendo com que associações de valores incorretos sejam mais difíceis de serem detectados
+<br><br>
+<br>Para entender o tempo de vida de uma variável, é necessário entender os seguintes conceitos:
+
+<br>Alocação - Ocorre ao vincular uma variável a um conjunto de células disponíveis na memória
+<br>Desalocação - Ocorre quando as células de memória vinculadas a uma variável se tornam disponíveis
+
+
+<br>O tempo de vida de uma variável se inicia quando ela é alocada e se encerra quando a mesma é desalocada
+<br>Variáveis estáticas são vinculadas a células de memória antes da execução do programa e permanecem vinculadas a essas mesmas células até o final da execução
+<br>Variáveis dinâmicas na pilha são aquelas cujas vinculações de armazenamento são criadas a partir da elaboração de suas instruções de declaração, mas cujos tipos são estaticamente vinculados
+<br>Variáveis dinâmicas no monte explícitas são células de memória sem nome alocadas e desalocadas por instruções explícitas (especificadas pelo programador) em tempo de execução
+
+<br>Só podem ser referenciadas por ponteiros ou variáveis de referência
+
+
+<br>Variáveis dinâmicas no monte implícitas são vinculadas ao armazenamento no monte apenas quando são atribuídos valores a elas
+]]></description><link>nvve\vinculação\vinculação.html</link><guid isPermaLink="false">NVVE/Vinculação/Vinculação.md</guid><pubDate>Sat, 08 Mar 2025 16:54:22 GMT</pubDate></item><item><title><![CDATA[Vinculação de Armazenamento]]></title><description><![CDATA[ 
+ ]]></description><link>nvve\vinculação\vinculação-de-armazenamento.html</link><guid isPermaLink="false">NVVE/Vinculação/Vinculação de Armazenamento.md</guid><pubDate>Sat, 08 Mar 2025 14:17:24 GMT</pubDate></item><item><title><![CDATA[Vinculação de Tipos]]></title><description><![CDATA[ 
+ ]]></description><link>nvve\vinculação\vinculação-de-tipos.html</link><guid isPermaLink="false">NVVE/Vinculação/Vinculação de Tipos.md</guid><pubDate>Sat, 08 Mar 2025 14:17:04 GMT</pubDate></item><item><title><![CDATA[Nomes, variáveis, vinculações e escopos]]></title><description><![CDATA[ 
+ <br><br>
+<br>STACK - Região usada para alocar espaço para variáveis de funções. Quando a função é finalizada, as variáveis correspondentes são desalocadas
+<br>HEAP - Região da memória reservada para variáveis alocadas e desalocadas explicitamente pelo programador
+<br><br><br><br>]]></description><link>nvve\nomes,-variáveis,-vinculações-e-escopos.html</link><guid isPermaLink="false">NVVE/Nomes, variáveis, vinculações e escopos.md</guid><pubDate>Fri, 07 Mar 2025 23:00:53 GMT</pubDate></item><item><title><![CDATA[Contextualização]]></title><description><![CDATA[ 
+ <br><br><br><br>
+<br>Trata-se de uma área da memória que armazena os atributos de uma variável
+<br>Se os atributos são estáticos, pode acontecer dos descritores só serem necessários em tempo de compilação
+<br>Para atributos dinâmicos, parte ou todo o descritor deve ser mantido durante a execução
+<br><br>
+<br>
+]]></description><link>python\contexto\contextualização.html</link><guid isPermaLink="false">Python/Contexto/Contextualização.md</guid><pubDate>Mon, 10 Mar 2025 02:43:03 GMT</pubDate></item><item><title><![CDATA[Memória]]></title><description><![CDATA[ 
+ ]]></description><link>python\contexto\memória.html</link><guid isPermaLink="false">Python/Contexto/Memória.md</guid><pubDate>Mon, 10 Mar 2025 02:42:15 GMT</pubDate></item><item><title><![CDATA[Python - Memória e Garbage Collector]]></title><description><![CDATA[ 
+ <br>]]></description><link>python\contexto\python-memória-e-garbage-collector.html</link><guid isPermaLink="false">Python/Contexto/Python - Memória e Garbage Collector.md</guid><pubDate>Mon, 10 Mar 2025 02:38:31 GMT</pubDate></item><item><title><![CDATA[BNF]]></title><description><![CDATA[ 
+ <br>
+<br>Abreviação para Forma de Backus-Naur, se trata do método de descrição da sintaxe
+<br>Backus e Naur introduziram uma notação formal para especificar a sintaxe de linguagens de programação com base na gramática livre de contexto de Chomsky
+<br>Se tornou o método mais popular para descrever sintaxe de linguagens de programação de forma concisa
+<br><br>
+<br>Linguagem utilizada para descrever outra
+<br>A BNF é uma metalinguagem para linguagens de programação
+<br>Possui os seguintes símbolos:
+
+<br>Conjunto de símbolos terminais
+<br>Conjunto de símbolos não-terminais
+<br>Símbolo inicial não-terminal
+
+
+<br><br>
+<br>Uma linguagem definida por uma BNF é o conjunto de todas as strings que podem ser derivadas a partir de um símbolo inicial
+]]></description><link>sintaxe\bnf\bnf.html</link><guid isPermaLink="false">Sintaxe/BNF/BNF.md</guid><pubDate>Sat, 08 Mar 2025 18:46:13 GMT</pubDate></item><item><title><![CDATA[Linguagem]]></title><description><![CDATA[ 
+ ]]></description><link>sintaxe\bnf\linguagem.html</link><guid isPermaLink="false">Sintaxe/BNF/Linguagem.md</guid><pubDate>Sat, 08 Mar 2025 18:44:21 GMT</pubDate></item><item><title><![CDATA[Metalinguagem]]></title><description><![CDATA[ 
+ ]]></description><link>sintaxe\bnf\metalinguagem.html</link><guid isPermaLink="false">Sintaxe/BNF/Metalinguagem.md</guid><pubDate>Sat, 08 Mar 2025 18:35:56 GMT</pubDate></item><item><title><![CDATA[Definição e História]]></title><description><![CDATA[ 
+ <br>
+<br>O estudo de linguagens pode ser dividido através da <a data-tooltip-position="top" aria-label="Sintaxe/Definição/Sintaxe" data-href="Sintaxe/Definição/Sintaxe" href="sintaxe\definição\sintaxe.html" class="internal-link" target="_self" rel="noopener nofollow">Sintaxe</a> e da <a data-href="Semântica" href="sintaxe\definição\semântica.html" class="internal-link" target="_self" rel="noopener nofollow">Semântica</a>
+<br><br>
+<br>Forma das expressões, sentenças e unidades de programas
+<br>Pode ser descrita por uma Gramática (Gramática Livre de Contexto e Gramática Regular)
+<br><br>
+<br>Significado das expressões, sentenças e unidades definidas pela sintaxe
+]]></description><link>sintaxe\definição\definição-e-história.html</link><guid isPermaLink="false">Sintaxe/Definição/Definição e História.md</guid><pubDate>Sat, 08 Mar 2025 18:44:48 GMT</pubDate></item><item><title><![CDATA[Semântica]]></title><description><![CDATA[ 
+ ]]></description><link>sintaxe\definição\semântica.html</link><guid isPermaLink="false">Sintaxe/Definição/Semântica.md</guid><pubDate>Sat, 08 Mar 2025 18:19:12 GMT</pubDate></item><item><title><![CDATA[Sintaxe]]></title><description><![CDATA[ 
+ ]]></description><link>sintaxe\definição\sintaxe.html</link><guid isPermaLink="false">Sintaxe/Definição/Sintaxe.md</guid><pubDate>Sat, 08 Mar 2025 18:18:06 GMT</pubDate></item><item><title><![CDATA[Adição de Partes Opcionais]]></title><description><![CDATA[ 
+ ]]></description><link>sintaxe\ebnf\adição-de-partes-opcionais.html</link><guid isPermaLink="false">Sintaxe/EBNF/Adição de Partes Opcionais.md</guid><pubDate>Sun, 09 Mar 2025 17:12:03 GMT</pubDate></item><item><title><![CDATA[EBNF]]></title><description><![CDATA[ 
+ <br>
+<br>Trata-se de uma versão estendida da BNF (Extended BNF)
+<br>Três extensões comuns em diferentes implementações são:
+<br><br>
+<br>Representado pelo uso de colchetes 
+<br>Apresenta uma parte opcional na gramática, que pode (ou não) estar presente
+<br>Exemplo (if...else):
+
+<br>&lt;if_stmt&gt;  if (&lt;expression&gt;) &lt;statement&gt; | if (&lt;expression&gt;) &lt;statement&gt; else &lt;statement&gt;
+<br>&lt;if_stmt&gt;  if (&lt;expression&gt;) &lt;statement&gt; [else &lt;statement&gt;]
+
+
+<br><br>
+<br>Geralmente utilizado para evitar recursão gramatical
+<br>Exemplo (inteiro):
+
+<br>&lt;inteiro&gt;  &lt;inteiro&gt; &lt;digito&gt; | &lt;digito&gt;
+<br>&lt;inteiro&gt;  { digito } &lt;digito&gt;
+
+
+<br>Neste caso, o valor entre chaves pode aparecer 0 ou mais vezes
+<br>Para forçar pelo menos uma ocorrência, poderia-se adicionar o operador "+", resultando em { digito }
+<br><br>
+<br>Pode-se utilizar a EBNF para "resumir" múltiplas escolhas
+<br>Exemplo:
+
+<br>&lt;term&gt;  &lt;term&gt;  &lt;factor&gt; | &lt;term&gt;  &lt;factor&gt; | &lt;term&gt;  &lt;factor&gt;
+<br>&lt;term&gt;  &lt;term&gt;  &lt;factor&gt;
+
+
+]]></description><link>sintaxe\ebnf\ebnf.html</link><guid isPermaLink="false">Sintaxe/EBNF/EBNF.md</guid><pubDate>Sun, 09 Mar 2025 17:39:57 GMT</pubDate></item><item><title><![CDATA[Repetições de Termos]]></title><description><![CDATA[ 
+ ]]></description><link>sintaxe\ebnf\repetições-de-termos.html</link><guid isPermaLink="false">Sintaxe/EBNF/Repetições de Termos.md</guid><pubDate>Sun, 09 Mar 2025 17:12:13 GMT</pubDate></item><item><title><![CDATA[Uso de Múltiplas Opções]]></title><description><![CDATA[ 
+ ]]></description><link>sintaxe\ebnf\uso-de-múltiplas-opções.html</link><guid isPermaLink="false">Sintaxe/EBNF/Uso de Múltiplas Opções.md</guid><pubDate>Sun, 09 Mar 2025 17:12:23 GMT</pubDate></item><item><title><![CDATA[Ambiguidade]]></title><description><![CDATA[ 
+ ]]></description><link>sintaxe\parse-trees\ambiguidade.html</link><guid isPermaLink="false">Sintaxe/Parse Trees/Ambiguidade.md</guid><pubDate>Sat, 08 Mar 2025 18:49:59 GMT</pubDate></item><item><title><![CDATA[Árvore de Análise Sintática]]></title><description><![CDATA[ 
+ <br>
+<br>Um dos recursos mais atrativos das gramáticas é que elas naturalmente descrevem a estrutura hierárquica (parse tree) das sentenças das linguagens que definem
+<br><br><br>
+<br>Uma gramática é dita ambígua quando pode gerar, para uma mesma forma sentencial, duas ou mais árvores de análise sintática
+<br>Ex.: 
+
+<br>
+<br> 
+<br> 
+
+
+<br><br><br>
+<br>A ambiguidade sintática das estruturas de linguagem é um problema porque os compiladores geralmente baseiam sua semântica nestas estruturas em sua forma sintática
+<br>Se uma estrutura de linguagem tem mais de uma árvore de análise sintática, o significado da estrutura não pode ser determinado unicamente
+<br><br>
+<br>Uma gramática pode (ou não) apresentar uma ordem de precedência entre os operadores
+<br>Isso é importante para evitar a ambiguidade e/ou erros relacionados a operações
+<br>É possível modificar uma gramática para adicionar/remover precedências entre operadores:
+
+<br>Gramática sem prioridade:
+
+<br>
+<br>
+
+
+<br>Gramática com prioridade (multiplicação):
+
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+<br><br>
+<br>Define-se uma prioridade para operações mais à esquerda ou à direita na árvore
+<br>Geralmente ocorre quando não se há uma prioridade definida entre os operadores
+]]></description><link>sintaxe\parse-trees\árvore-de-análise-sintática.html</link><guid isPermaLink="false">Sintaxe/Parse Trees/Árvore de Análise Sintática.md</guid><pubDate>Sun, 09 Mar 2025 03:58:53 GMT</pubDate></item><item><title><![CDATA[Associatividade de Operadores]]></title><description><![CDATA[ 
+ ]]></description><link>sintaxe\parse-trees\associatividade-de-operadores.html</link><guid isPermaLink="false">Sintaxe/Parse Trees/Associatividade de Operadores.md</guid><pubDate>Sat, 08 Mar 2025 18:50:19 GMT</pubDate></item><item><title><![CDATA[Precedência de Operadores]]></title><description><![CDATA[ 
+ ]]></description><link>sintaxe\parse-trees\precedência-de-operadores.html</link><guid isPermaLink="false">Sintaxe/Parse Trees/Precedência de Operadores.md</guid><pubDate>Sat, 08 Mar 2025 18:50:09 GMT</pubDate></item><item><title><![CDATA[Sintaxe]]></title><description><![CDATA[ 
+ <br><br><br><br>]]></description><link>sintaxe\sintaxe.html</link><guid isPermaLink="false">Sintaxe/Sintaxe.md</guid><pubDate>Sat, 08 Mar 2025 18:07:21 GMT</pubDate></item><item><title><![CDATA[Fatiamento]]></title><description><![CDATA[ 
+ ]]></description><link>tipos-de-dados\matrizes\fatiamento.html</link><guid isPermaLink="false">Tipos de Dados/Matrizes/Fatiamento.md</guid><pubDate>Sun, 09 Mar 2025 18:56:42 GMT</pubDate></item><item><title><![CDATA[Inicialização]]></title><description><![CDATA[ 
+ ]]></description><link>tipos-de-dados\matrizes\inicialização.html</link><guid isPermaLink="false">Tipos de Dados/Matrizes/Inicialização.md</guid><pubDate>Sun, 09 Mar 2025 18:48:27 GMT</pubDate></item><item><title><![CDATA[Matriz Estática]]></title><description><![CDATA[ 
+ ]]></description><link>tipos-de-dados\matrizes\matriz-estática.html</link><guid isPermaLink="false">Tipos de Dados/Matrizes/Matriz Estática.md</guid><pubDate>Sun, 09 Mar 2025 19:00:01 GMT</pubDate></item><item><title><![CDATA[Matriz Heap-Dinâmica]]></title><description><![CDATA[ 
+ ]]></description><link>tipos-de-dados\matrizes\matriz-heap-dinâmica.html</link><guid isPermaLink="false">Tipos de Dados/Matrizes/Matriz Heap-Dinâmica.md</guid><pubDate>Sun, 09 Mar 2025 19:00:45 GMT</pubDate></item><item><title><![CDATA[Matriz Heap-Dinâmica Fixa]]></title><description><![CDATA[ 
+ ]]></description><link>tipos-de-dados\matrizes\matriz-heap-dinâmica-fixa.html</link><guid isPermaLink="false">Tipos de Dados/Matrizes/Matriz Heap-Dinâmica Fixa.md</guid><pubDate>Sun, 09 Mar 2025 19:00:42 GMT</pubDate></item><item><title><![CDATA[Matriz Pilha-Dinâmica]]></title><description><![CDATA[ 
+ ]]></description><link>tipos-de-dados\matrizes\matriz-pilha-dinâmica.html</link><guid isPermaLink="false">Tipos de Dados/Matrizes/Matriz Pilha-Dinâmica.md</guid><pubDate>Sun, 09 Mar 2025 19:00:18 GMT</pubDate></item><item><title><![CDATA[Matriz Pilha-Dinâmica Fixa]]></title><description><![CDATA[ 
+ ]]></description><link>tipos-de-dados\matrizes\matriz-pilha-dinâmica-fixa.html</link><guid isPermaLink="false">Tipos de Dados/Matrizes/Matriz Pilha-Dinâmica Fixa.md</guid><pubDate>Sun, 09 Mar 2025 19:00:12 GMT</pubDate></item><item><title><![CDATA[Matrizes]]></title><description><![CDATA[ 
+ <br><br>
+<br>Podem ser construídos a partir de tipos primitivos e/ou outros tipos compostos
+<br>Processo de composição
+<br><br>
+<br>Conjunto de dados do mesmo tipo, em que cada elemento é identificado por sua posição relativa ao primeiro elemento
+<br>A quantidade de dimensões de uma matriz pode ser variável e definida pelo programador
+
+<br>A maioria das linguagens atualmente não impõem limites com relação à quantidade de dimensões
+<br>Quanto maior o número de dimensões, maior o processamento necessário
+
+
+<br>O modo de acesso dos elementos de uma matriz se dá através do uso de colchetes 
+
+<br>Algumas linguagens utilizam parênteses, mas são menos comuns
+
+
+<br><br>
+<br>Algumas linguagens inicializam automaticamente os valores das matrizes
+<br>Outras alocam um conjunto de valores determinados pelo programador na inicialização
+<br>Outra possibilidade é o método de compreensão de listas, inspirado em nomenclaturas matemáticas:
+
+<br>
+
+
+<br>sigma = [x*x for x in range(1,10) if x % 3 == 0]
+<br><br>
+<br>Algumas linguagens permitem acessar "fatias" de vetores/matrizes
+<br>Permite acessar/alterar uma faixa de valores com maior facilidade
+<br><br>
+<br>Uma matriz heterogênea é uma matriz que possui mais de um tipo de dados em seu interior ( [1, 2, 5, 'oi'] )
+<br>Pode levar a problemas caso esteja-se realizando uma operação específica de um tipo de dados
+<br><br><br>
+<br>Índices fixos
+<br>Alocação estática
+<br>Vantagem: eficiência de alocação
+<br>Desvantagem: ativa durante todo o programa
+<br><br>
+<br>Índices fixos
+<br>Alocação de acordo com alocação dinâmica de funções
+<br>Vantagem: eficiência no uso de espaço
+<br>Desvantagem: tempo de alocação
+<br><br>
+<br>Índices dinâmicos
+<br>Alocação de acordo com alocação dinâmica de funções
+<br>Vantagem: flexibilidade no tamanho
+<br>Desvantagem: tempo de alocação
+<br><br>
+<br>Índices e alocação dinâmicos
+<br>Tamanho fixo depois da alocação
+<br>Vantagem: flexibilidade na criação de matrizes não temporárias
+<br>Desvantagem: tempo de alocação
+<br><br>
+<br>Índices e alocação dinâmicos
+<br>Tamanho pode mudar ao decorrer da execução
+<br>Vantagem: possibilidade de mudar o tamanho da matriz à medida que se insere e remove elementos
+<br>Desvantagem: tempo de alocação
+]]></description><link>tipos-de-dados\matrizes\matrizes.html</link><guid isPermaLink="false">Tipos de Dados/Matrizes/Matrizes.md</guid><pubDate>Sun, 09 Mar 2025 19:05:31 GMT</pubDate></item><item><title><![CDATA[Matrizes Heterogêneas]]></title><description><![CDATA[ 
+ ]]></description><link>tipos-de-dados\matrizes\matrizes-heterogêneas.html</link><guid isPermaLink="false">Tipos de Dados/Matrizes/Matrizes Heterogêneas.md</guid><pubDate>Sun, 09 Mar 2025 18:57:56 GMT</pubDate></item><item><title><![CDATA[Tipos Compostos]]></title><description><![CDATA[ 
+ ]]></description><link>tipos-de-dados\matrizes\tipos-compostos.html</link><guid isPermaLink="false">Tipos de Dados/Matrizes/Tipos Compostos.md</guid><pubDate>Sun, 09 Mar 2025 18:44:42 GMT</pubDate></item><item><title><![CDATA[Tipos de Matrizes]]></title><description><![CDATA[ 
+ <br><a data-href="Matriz Estática" href="tipos-de-dados\matrizes\matriz-estática.html" class="internal-link" target="_self" rel="noopener nofollow">Matriz Estática</a><br>
+<a data-href="Matriz Pilha-Dinâmica Fixa" href="tipos-de-dados\matrizes\matriz-pilha-dinâmica-fixa.html" class="internal-link" target="_self" rel="noopener nofollow">Matriz Pilha-Dinâmica Fixa</a><br>
+<a data-href="Matriz Pilha-Dinâmica" href="tipos-de-dados\matrizes\matriz-pilha-dinâmica.html" class="internal-link" target="_self" rel="noopener nofollow">Matriz Pilha-Dinâmica</a><br>
+<a data-href="Matriz Heap-Dinâmica Fixa" href="tipos-de-dados\matrizes\matriz-heap-dinâmica-fixa.html" class="internal-link" target="_self" rel="noopener nofollow">Matriz Heap-Dinâmica Fixa</a><br>
+<a data-href="Matriz Heap-Dinâmica" href="tipos-de-dados\matrizes\matriz-heap-dinâmica.html" class="internal-link" target="_self" rel="noopener nofollow">Matriz Heap-Dinâmica</a>]]></description><link>tipos-de-dados\matrizes\tipos-de-matrizes.html</link><guid isPermaLink="false">Tipos de Dados/Matrizes/Tipos de Matrizes.md</guid><pubDate>Sun, 09 Mar 2025 19:00:54 GMT</pubDate></item><item><title><![CDATA[Ponteiro Solto]]></title><description><![CDATA[ 
+ ]]></description><link>tipos-de-dados\ponteiros\ponteiro-solto.html</link><guid isPermaLink="false">Tipos de Dados/Ponteiros/Ponteiro Solto.md</guid><pubDate>Sun, 09 Mar 2025 19:53:48 GMT</pubDate></item><item><title><![CDATA[Ponteiros e Variáveis de Referência]]></title><description><![CDATA[ 
+ <br><br>
+<br>Uma variável do tipo ponteiro possui endereços como faixas de valores
+<br>Quando se deseja que um ponteiro não armazene nenhum valor, atribui-se o valor NULL a ele
+<br>Podem ser usados para acessar posições na memória que são dinamicamente alocadas na memória heap
+<br>Geralmente possuem duas operações: 
+
+<br>Atribuição - Operação de associação entre um valor e um ponteiro
+<br>Desreferenciamento - Permite acessar o valor armazenado no endereço apontado pelo ponteiro em questão
+
+
+<br><br>
+<br>Ponteiro solto - Ponteiro que contém o endereço de uma variável dinâmica no monte já liberada
+<br>Variável dinâmica no monte perdida - Variável alocada que não está mais acessível para o programador, geralmente chamadas de lixo
+
+<br>Geralmente são produzidas da seguinte forma:
+
+<br>O ponteiro é usado para alocar uma região na memória heap
+<br>O ponteiro é usado para apontar para outra variável dinâmica no monte
+
+
+
+
+<br><br>
+<br>Similar a um ponteiro, com a diferença que, ao invés de armazenar um endereço, a variável de referência armazena um objeto ou um valor em memória
+<br>Podem (ou não) substituir os ponteiros em uma dada linguagem
+]]></description><link>tipos-de-dados\ponteiros\ponteiros-e-variáveis-de-referência.html</link><guid isPermaLink="false">Tipos de Dados/Ponteiros/Ponteiros e Variáveis de Referência.md</guid><pubDate>Mon, 10 Mar 2025 02:03:49 GMT</pubDate></item><item><title><![CDATA[Problemas com Ponteiros]]></title><description><![CDATA[ 
+ <br><a data-href="Ponteiro Solto" href="tipos-de-dados\ponteiros\ponteiro-solto.html" class="internal-link" target="_self" rel="noopener nofollow">Ponteiro Solto</a><a data-href="Variáveis Dinâmicas no Monte Perdidas" href="tipos-de-dados\ponteiros\variáveis-dinâmicas-no-monte-perdidas.html" class="internal-link" target="_self" rel="noopener nofollow">Variáveis Dinâmicas no Monte Perdidas</a>]]></description><link>tipos-de-dados\ponteiros\problemas-com-ponteiros.html</link><guid isPermaLink="false">Tipos de Dados/Ponteiros/Problemas com Ponteiros.md</guid><pubDate>Sun, 09 Mar 2025 19:54:43 GMT</pubDate></item><item><title><![CDATA[Variáveis de Referência]]></title><description><![CDATA[ 
+ ]]></description><link>tipos-de-dados\ponteiros\variáveis-de-referência.html</link><guid isPermaLink="false">Tipos de Dados/Ponteiros/Variáveis de Referência.md</guid><pubDate>Sun, 09 Mar 2025 19:54:21 GMT</pubDate></item><item><title><![CDATA[Variáveis Dinâmicas no Monte Perdidas]]></title><description><![CDATA[ 
+ ]]></description><link>tipos-de-dados\ponteiros\variáveis-dinâmicas-no-monte-perdidas.html</link><guid isPermaLink="false">Tipos de Dados/Ponteiros/Variáveis Dinâmicas no Monte Perdidas.md</guid><pubDate>Sun, 09 Mar 2025 19:54:06 GMT</pubDate></item><item><title><![CDATA[Booleanos]]></title><description><![CDATA[<a class="tag" href="?query=tag:true" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#true</a> <a class="tag" href="?query=tag:false" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#false</a> 
+ <br><a href=".?query=tag:true" class="tag" target="_blank" rel="noopener nofollow">#true</a> <a href=".?query=tag:false" class="tag" target="_blank" rel="noopener nofollow">#false</a>]]></description><link>tipos-de-dados\primitivos\booleanos.html</link><guid isPermaLink="false">Tipos de Dados/Primitivos/Booleanos.md</guid><pubDate>Sun, 09 Mar 2025 18:17:09 GMT</pubDate></item><item><title><![CDATA[Caracteres]]></title><description><![CDATA[<a class="tag" href="?query=tag:char" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#char</a> <a class="tag" href="?query=tag:string" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#string</a> 
+ <br><a href=".?query=tag:char" class="tag" target="_blank" rel="noopener nofollow">#char</a> <a href=".?query=tag:string" class="tag" target="_blank" rel="noopener nofollow">#string</a>]]></description><link>tipos-de-dados\primitivos\caracteres.html</link><guid isPermaLink="false">Tipos de Dados/Primitivos/Caracteres.md</guid><pubDate>Sun, 09 Mar 2025 18:17:21 GMT</pubDate></item><item><title><![CDATA[Tipos Numéricos]]></title><description><![CDATA[<a class="tag" href="?query=tag:int" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#int</a> <a class="tag" href="?query=tag:float" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#float</a> <a class="tag" href="?query=tag:double" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#double</a> 
+ <br><a href=".?query=tag:int" class="tag" target="_blank" rel="noopener nofollow">#int</a> <a href=".?query=tag:float" class="tag" target="_blank" rel="noopener nofollow">#float</a> <a href=".?query=tag:double" class="tag" target="_blank" rel="noopener nofollow">#double</a>]]></description><link>tipos-de-dados\primitivos\tipos-numéricos.html</link><guid isPermaLink="false">Tipos de Dados/Primitivos/Tipos Numéricos.md</guid><pubDate>Sun, 09 Mar 2025 18:16:33 GMT</pubDate></item><item><title><![CDATA[Tipos Primitivos]]></title><description><![CDATA[ 
+ <br><br>
+<br>Caracteriza a faixa de valores que uma variável pode assumir
+<br>Existem limitações nas faixas de valores que variam de linguagem para linguagem
+<br>Tipos de dados que não são definidos em termos de outros são considerados tipos primitivos
+<br>Exemplos: <a data-href="Tipos Numéricos" href="tipos-de-dados\primitivos\tipos-numéricos.html" class="internal-link" target="_self" rel="noopener nofollow">Tipos Numéricos</a>, <a data-href="Booleanos" href="tipos-de-dados\primitivos\booleanos.html" class="internal-link" target="_self" rel="noopener nofollow">Booleanos</a>, <a data-href="Caracteres" href="tipos-de-dados\primitivos\caracteres.html" class="internal-link" target="_self" rel="noopener nofollow">Caracteres</a>
+]]></description><link>tipos-de-dados\primitivos\tipos-primitivos.html</link><guid isPermaLink="false">Tipos de Dados/Primitivos/Tipos Primitivos.md</guid><pubDate>Sun, 09 Mar 2025 18:16:50 GMT</pubDate></item><item><title><![CDATA[Cadeia de Caracteres]]></title><description><![CDATA[ 
+ <br>
+<br>Uma cadeira de caracteres (string) é um tipo onde os valores são uma sequência de caracteres
+<br>As strings foram incorporadas às linguagens de programação posteriormente
+<br>Existem diferentes maneiras de implementar strings:
+
+<br>Vetor de caracteres (C)
+<br>Tipo primitivo (FORTRAN, Python)
+<br>Objeto (Java)
+
+
+<br><br>
+<br>Trata-se de uma área da memória que armazena os atributos de uma variável
+<br>Se os atributos são estáticos, pode acontecer dos descritores só serem necessários em tempo de compilação
+<br>Para atributos dinâmicos, parte ou todo o descritor deve ser mantido durante a execução
+<br><br><br>
+<br>Tamanho especificado na criação da variável (imutável)
+<br>Descritor geralmente é definido em tempo de compilação e armazena informações como comprimento e endereço
+<br><br>
+<br>Tamanho pode variar até um limite máximo
+<br>A string pode mudar de conteúdo (desde que não ultrapasse o limite máximo)
+<br>Descritor é definido em tempo de execução e armazena informações como comprimento atual, comprimento máximo e endereço
+<br><br>
+<br>Descritor definido em tempo de execução
+<br>Permite alterar tanto o conteúdo quanto o tamanho máximo da string
+<br>Alocação e liberação de memória são os principais problemas de implementação
+]]></description><link>tipos-de-dados\strings\cadeia-de-caracteres.html</link><guid isPermaLink="false">Tipos de Dados/Strings/Cadeia de Caracteres.md</guid><pubDate>Sun, 09 Mar 2025 18:43:32 GMT</pubDate></item><item><title><![CDATA[Descritor]]></title><description><![CDATA[ 
+ ]]></description><link>tipos-de-dados\strings\descritor.html</link><guid isPermaLink="false">Tipos de Dados/Strings/Descritor.md</guid><pubDate>Sun, 09 Mar 2025 18:29:38 GMT</pubDate></item><item><title><![CDATA[Tamanho de Strings]]></title><description><![CDATA[ 
+ <br><a data-href="Tamanho Estático" href="tipos-de-dados\strings\tamanho-estático.html" class="internal-link" target="_self" rel="noopener nofollow">Tamanho Estático</a><a data-href="Tamanho Dinâmico Limitado" href="tipos-de-dados\strings\tamanho-dinâmico-limitado.html" class="internal-link" target="_self" rel="noopener nofollow">Tamanho Dinâmico Limitado</a><a data-href="Tamanho Dinâmico Ilimitado" href="tipos-de-dados\strings\tamanho-dinâmico-ilimitado.html" class="internal-link" target="_self" rel="noopener nofollow">Tamanho Dinâmico Ilimitado</a>]]></description><link>tipos-de-dados\strings\tamanho-de-strings.html</link><guid isPermaLink="false">Tipos de Dados/Strings/Tamanho de Strings.md</guid><pubDate>Sun, 09 Mar 2025 18:36:55 GMT</pubDate></item><item><title><![CDATA[Tamanho Dinâmico Ilimitado]]></title><description><![CDATA[ 
+ ]]></description><link>tipos-de-dados\strings\tamanho-dinâmico-ilimitado.html</link><guid isPermaLink="false">Tipos de Dados/Strings/Tamanho Dinâmico Ilimitado.md</guid><pubDate>Sun, 09 Mar 2025 18:35:45 GMT</pubDate></item><item><title><![CDATA[Tamanho Dinâmico Limitado]]></title><description><![CDATA[ 
+ ]]></description><link>tipos-de-dados\strings\tamanho-dinâmico-limitado.html</link><guid isPermaLink="false">Tipos de Dados/Strings/Tamanho Dinâmico Limitado.md</guid><pubDate>Sun, 09 Mar 2025 18:35:37 GMT</pubDate></item><item><title><![CDATA[Tamanho Estático]]></title><description><![CDATA[ 
+ ]]></description><link>tipos-de-dados\strings\tamanho-estático.html</link><guid isPermaLink="false">Tipos de Dados/Strings/Tamanho Estático.md</guid><pubDate>Sun, 09 Mar 2025 18:35:29 GMT</pubDate></item><item><title><![CDATA[Registros]]></title><description><![CDATA[ 
+ <br>
+<br>Um registro é um agregado de elementos de dados no qual os elementos individuais são identificados por nomes
+<br>Os elementos de um registro ocupam posições de memória adjacentes
+<br>A principal diferença de um registro para uma matriz é que os elementos/campos do registro não são acessados por índices
+<br>Ex.: structs em C/C++/C#
+]]></description><link>tipos-de-dados\registros.html</link><guid isPermaLink="false">Tipos de Dados/Registros.md</guid><pubDate>Sun, 09 Mar 2025 19:50:00 GMT</pubDate></item><item><title><![CDATA[Tipos de Dados]]></title><description><![CDATA[ 
+ <br><br><br><br><br><br>]]></description><link>tipos-de-dados\tipos-de-dados.html</link><guid isPermaLink="false">Tipos de Dados/Tipos de Dados.md</guid><pubDate>Sun, 09 Mar 2025 17:44:58 GMT</pubDate></item><item><title><![CDATA[Verificação de Tipos]]></title><description><![CDATA[ 
+ <br>
+<br>Um sistema de tipos define como tipos e variáveis são associados e como as operações sobre os seus valores são realizadas
+<br>Impõe restrições sobre operações
+<br>Essa verificação pode ocorrer em tempo de compilação (verificação estática) ou execução (verificação dinâmica)
+<br>O tipo de uma variável pode ser determinado estaticamente ou dinamicamente
+<br>A verificação ocorre da mesma forma que a tipagem (estático - estático, dinâmico - dinâmico)
+<br>Uma linguagem é dita fortemente tipada quando sempre é capaz de detectar erros de tipo
+]]></description><link>tipos-de-dados\verificação-de-tipos.html</link><guid isPermaLink="false">Tipos de Dados/Verificação de Tipos.md</guid><pubDate>Sun, 09 Mar 2025 18:21:41 GMT</pubDate></item><item><title><![CDATA[Assuntos]]></title><description><![CDATA[ 
  <br><br>
 <br><a data-href="Conceitos Preliminares" href="conceitos-preliminares\conceitos-preliminares.html" class="internal-link" target="_self" rel="noopener nofollow">Conceitos Preliminares</a>
-<br><a data-href="Nomes, variáveis, vinculações e escopos" href="nomes,-variáveis,-vinculações-e-escopos.html" class="internal-link" target="_self" rel="noopener nofollow">Nomes, variáveis, vinculações e escopos</a>
-<br><a data-href="Sintaxe" href="sintaxe.html" class="internal-link" target="_self" rel="noopener nofollow">Sintaxe</a>
-<br><a data-href="Tipos de Dados" href="tipos-de-dados.html" class="internal-link" target="_self" rel="noopener nofollow">Tipos de Dados</a>
-<br><a data-href="Python - Memória e Garbage Collector" href="python-memória-e-garbage-collector.html" class="internal-link" target="_self" rel="noopener nofollow">Python - Memória e Garbage Collector</a>
+<br><a data-href="Nomes, variáveis, vinculações e escopos" href="nvve\nomes,-variáveis,-vinculações-e-escopos.html" class="internal-link" target="_self" rel="noopener nofollow">Nomes, variáveis, vinculações e escopos</a>
+<br><a data-href="Sintaxe" href="sintaxe\sintaxe.html" class="internal-link" target="_self" rel="noopener nofollow">Sintaxe</a>
+<br><a data-href="Tipos de Dados" href="tipos-de-dados\tipos-de-dados.html" class="internal-link" target="_self" rel="noopener nofollow">Tipos de Dados</a>
+<br><a data-href="Python - Memória e Garbage Collector" href="python\contexto\python-memória-e-garbage-collector.html" class="internal-link" target="_self" rel="noopener nofollow">Python - Memória e Garbage Collector</a>
 <br><br><br>
 <br>???
-]]></description><link>assuntos.html</link><guid isPermaLink="false">Assuntos.md</guid><pubDate>Fri, 07 Mar 2025 19:48:32 GMT</pubDate></item><item><title><![CDATA[Nomes, variáveis, vinculações e escopos]]></title><description><![CDATA[ 
- ]]></description><link>nomes,-variáveis,-vinculações-e-escopos.html</link><guid isPermaLink="false">Nomes, variáveis, vinculações e escopos.md</guid><pubDate>Fri, 07 Mar 2025 19:28:46 GMT</pubDate></item><item><title><![CDATA[Python - Memória e Garbage Collector]]></title><description><![CDATA[ 
- ]]></description><link>python-memória-e-garbage-collector.html</link><guid isPermaLink="false">Python - Memória e Garbage Collector.md</guid><pubDate>Fri, 07 Mar 2025 19:28:31 GMT</pubDate></item><item><title><![CDATA[Sintaxe]]></title><description><![CDATA[ 
- ]]></description><link>sintaxe.html</link><guid isPermaLink="false">Sintaxe.md</guid><pubDate>Fri, 07 Mar 2025 19:28:43 GMT</pubDate></item><item><title><![CDATA[Tipos de Dados]]></title><description><![CDATA[ 
- ]]></description><link>tipos-de-dados.html</link><guid isPermaLink="false">Tipos de Dados.md</guid><pubDate>Fri, 07 Mar 2025 19:28:37 GMT</pubDate></item></channel></rss>
+]]></description><link>assuntos.html</link><guid isPermaLink="false">Assuntos.md</guid><pubDate>Fri, 07 Mar 2025 19:48:32 GMT</pubDate></item></channel></rss>
